@@ -1,12 +1,3 @@
-# Задача 2:
-# Для выполнения задачи использовались команды:
-# 1. git checkout/switch -- для изменения ветки
-# 2. git branch --all -- для отслеживания ветки
-# 3. git log, git status, git commit
-# 4. git restore --hard HEAD~1 -- для принудительного удаления последнего коммита в ветке feature
-# 5. git reset --soft HEAD~2 -- для слияния двух последних коммитов в ветке develop
-# 6. git restore --worktree --source develop --- в ветке experiment для возвращения файлов (readme.md, calculate.py) к состоянию develop
-# 7. git rm -- для удаления файлов
 
 # How to use calculator:
 1. Run `python calculate.py`
